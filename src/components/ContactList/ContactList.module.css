@@ -21,6 +21,8 @@
   font-size: 18px;
   font-weight: bold;
   transition: color 300ms ease-in-out;
+  display: flex;
+  align-items: center;
 }
 .item:hover .text,
 .item:hover .iconAddressBook {
